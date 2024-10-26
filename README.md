@@ -35,7 +35,5 @@ To view or run the project on your local machine:
 ### Contact Section
 ![Contact Section](![image](![image](![image](https://github.com/user-attachments/assets/3547344a-01d6-4031-86ff-f9ca7cde6a37)
 )
-)
-)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
