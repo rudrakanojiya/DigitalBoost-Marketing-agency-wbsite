@@ -24,9 +24,18 @@ To view or run the project on your local machine:
 
 ## Screenshots
 ### Home Page
-![Home Page](assets/images/home-page-screenshot.png)
+![Home Page](![image](https://github.com/user-attachments/assets/0a948f18-6618-4d11-8ff6-89048f99f601)
+)
 ### Services Section
-![Services Section](assets/images/services-screenshot.png)
-
+![Services Section](![image](https://github.com/user-attachments/assets/f2ccdadd-fff9-4da6-bbd8-4af929d0c93d)
+)
+### About Section
+![About Section](![image](![image](https://github.com/user-attachments/assets/d62d18f7-4448-475f-ab86-0c40e390fb9d)
+)
+### Contact Section
+![Contact Section](![image](![image](![image](https://github.com/user-attachments/assets/3547344a-01d6-4031-86ff-f9ca7cde6a37)
+)
+)
+)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
